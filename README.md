@@ -7,13 +7,13 @@ The results from the proposed model were used for the project illustrated in the
 
 https://link.springer.com/article/10.1007/s10846-019-00995-2
 
-@article{sartori,
+@article{sartori,<br />
         author = "Daniele Sartori and Wenxian Yu",<br />
         title = "Experimental Characterization of a Propulsion System for Multi-rotor UAVs",<br />
-	journal = "Journal of Intelligent \& Robotic Systems",
-	year = "2019",
-				volume = "96",
-				number = "3",
-				pages = "529-540",
-				month = "February" 
-}
+	journal = "Journal of Intelligent \& Robotic Systems",<br />
+	year = "2019",<br />
+	volume = "96",<br />
+	number = "3",<br />
+	pages = "529-540",<br />
+	month = "February" <br />
+}<br />
